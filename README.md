@@ -1,3 +1,5 @@
+# Considerações gerais
+* Página criada com base nas aulas do curso React da dio.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
