@@ -1,6 +1,6 @@
 # Considerações gerais
 * Página criada com base nas aulas do curso React da dio.
-* Adição de 2 componentes - Header e footer.
+* Adição de 2 componentes - Header e footer. Nota: O filename dos components podem ser alterados e o codigo refaturado para um melhor entendimento caso o pretenda.
 * Links utilizados para a adição de header e footer:
 * - [Header](https://www.geeksforgeeks.org/create-a-responsive-navbar-using-reactjs/)
 * - [Footer](https://www.geeksforgeeks.org/how-to-create-a-simple-responsive-footer-in-react-js/)
