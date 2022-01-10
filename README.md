@@ -2,8 +2,8 @@
 * Página criada com base nas aulas do curso React da dio.
 * Adição de 2 componentes - Header e footer e alteração de estilos dos componentes já predefinidos em aula.
 * Links utilizados para a adição de header e footer:
-* - [geeksforgeeks.org](https://www.geeksforgeeks.org/create-a-responsive-navbar-using-reactjs/)
-* - [geeksforgeeks.org](https://www.geeksforgeeks.org/how-to-create-a-simple-responsive-footer-in-react-js/)
+* - [Header](https://www.geeksforgeeks.org/create-a-responsive-navbar-using-reactjs/)
+* - [Footer](https://www.geeksforgeeks.org/how-to-create-a-simple-responsive-footer-in-react-js/)
 * 
 # Getting Started with Create React App
 
