@@ -1,11 +1,15 @@
 # Considerações gerais
 * Página criada com base nas aulas do curso React da dio.
-* Adição de 2 componentes - Header e footer e alteração de estilos dos componentes já predefinidos em aula.
+* Adição de 2 componentes - Header e footer.
 * Links utilizados para a adição de header e footer:
 * - [Header](https://www.geeksforgeeks.org/create-a-responsive-navbar-using-reactjs/)
 * - [Footer](https://www.geeksforgeeks.org/how-to-create-a-simple-responsive-footer-in-react-js/)
-* 
-# Getting Started with Create React App
+* Alteração de estilos dos componentes em React para uma melhor visualização.
+* Os Links tanto do header quanto do footer servem apenas como ilustração podendo ser configurados em <navlink> e <footerlink> respectivamente.
+* Utilizar os comandos npm install `react-router-dom@5.2.0` e `npm install react-icons --save` no caso de erros ou atualizações.
+*De resto seguir o tutorial abaixo indicado.
+  
+# Getting Started with Create React App 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
